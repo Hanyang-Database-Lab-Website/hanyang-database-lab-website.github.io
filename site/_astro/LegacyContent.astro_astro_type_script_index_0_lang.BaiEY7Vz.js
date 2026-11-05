@@ -1,0 +1,1 @@
+import"./legacy-tabs.eFTyu7bn.js";

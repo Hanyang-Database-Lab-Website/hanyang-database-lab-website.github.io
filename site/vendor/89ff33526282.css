@@ -1,0 +1,9 @@
+@import url("/vendor/78cb0461e353.css");
+
+.wonderplugintabs * {
+	box-sizing: border-box;
+}
+
+.wonderplugin-engine {
+	display: none;
+}
